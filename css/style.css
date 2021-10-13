@@ -457,3 +457,7 @@ a {
         width:calc(100% - 20px);
     }
 }
+
+@media (resolution : 150dpi){
+
+};
